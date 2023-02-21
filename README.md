@@ -1,5 +1,7 @@
 # BTK Akademi Go Dili notları
 
+## Bilgisayarımın olmadığı dönemlerde defterlere yazardım kodları.
+
 ![alt text](go-language-note-0.jpg "image Title")
 ![alt text](go-language-note-1.jpg "image Title")
 ![alt text](go-language-note-2.jpg "image Title")
